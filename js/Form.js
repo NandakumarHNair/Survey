@@ -131,7 +131,7 @@ class Form{
             this.endMessage1.position(250, 200);
             this.endMessage1.html("Survey Ended !");
 
-            this.endMessage2.position(250, 200);
+            this.endMessage2.position(250, 300);
             this.endMessage2.html("Thankyou For Your Response...");
             })
 
